@@ -4,7 +4,7 @@
 This program simulates a food pyramid in which a user may customize and navigate through. The organisms in the food pyramid can consist of carnivores, herbivores, and omnivores. 
 ## How to Execute 
 ```
-Step 1: Open your favorite IDE (preferrably IntelliJ). 
+Step 1: Open your favorite IDE (preferably IntelliJ). 
 Step 2: Navigate to and execute the main class: FoodPyramid.java.
 Step 3: When prompted, enter the name of the apex predator along with what kind of organism it is.
 ```
